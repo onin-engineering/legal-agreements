@@ -7,4 +7,5 @@ By doing so, you can access previous versions of each agreement and see the chan
 ## Agreements
 
 - [Privacy Policy](/privacy-policy.md)
+- [Terms of Service](/terms-of-service.md)
 - [Website Terms of Use](website-terms-of-use.md)
