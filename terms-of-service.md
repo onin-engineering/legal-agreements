@@ -1,47 +1,47 @@
 # Our Terms of Service
 
-Effective date: 12/12/2022
+Effective date: 18/09/2023
 
-## Welcome to Onin
+## Welcome to OurCal
 
-Thank you for using Onin! We hope you enjoy using the App to organise and schedule your events and stay connected.
+Thank you for using OurCal! We hope you enjoy using the App to securely share calendars with your groups.
 
-Privacy and Security are at the centre of Onin and these terms and our [Privacy Policy](/privacy-policy.md) explain how we look after your data to ensure its safety and security.
+Privacy and Security are at the centre of OurCal and these terms and our [Privacy Policy](/privacy-policy.md) explain how we look after your data to ensure its safety and security.
 
 ## Who we are and what this agreement does
 
 We, Onin Ltd. of 128 City Road, London EC1V 2NX, license you to use:
 
-* Onin App mobile application software, the data supplied with the software, (**App**) and any updates or supplements to it.
+* OurCal App mobile application software, the data supplied with the software, (**App**) and any updates or supplements to it.
 * The service you connect to via the App and the content we provide to you through it (**Service**).
 
 Depending on the version of the App you have installed, your use of the App may also be controlled by Apple’s rules and policies and these rules and policies will apply instead of these terms where there are differences between the two.
  
 ## Getting started
 
-**Registering**. To use the App, you must first register to use our Service by providing us with your mobile phone number. We may send you a code to for you to complete the registration and you agree to us using your number in this way In registering, you identify a profile, by which you will be known, and share the details of your contacts so you can communicate with them.
+**Registering**. To use the App, you must first register to use our Service by providing us with your name and verify that you are at least 13 years old. We may send you a code to your email to complete the registration and you agree to us using your email in this way. In registering, you identify a profile, by which you will be known to other users you share groups with as.
 
 **Age**. You must be at least 13 years old to use our App and Services.
 
-**Data Connections**. To use Onin you need to have a data connection from your device. This enables you to chat and arrange dates with your contacts and also allows Onin to send updates, alerts and other information to you.
+**Data Connections**. To use OurCal you need to have a data connection from your device. This enables you to chat and arrange dates with your contacts and also allows OurCal to send updates, alerts and other information to you.
 
 **Your device**. To use the App, you need to download it onto your device. The App will only work on the most current (and current minus two) versions of the iOS device operating system. You give us permission to send notifications and data to your device.
 
-**Your device calendars and contacts**. You can choose to allow the App to connect to your device calendars to show you such calendar events in the App. If you do, you give your consent to do that. You can also choose to allow the App to connect to your device contacts to show you which of these contacts are also Onin users and, if you do, you give your consent to do that.
+**Your device calendars and contacts**. You can choose to allow the App to connect to your device calendars to show you such calendar events in the App. If you do, you give your consent to do that. You can also choose to allow the App to connect to your device contacts to show you which of these contacts are also OurCal users and, if you do, you give your consent to do that.
 
-Cost. We won’t charge you to use Onin but you are responsible for any Internet fees, carrier data plans and other costs from third parties that you may be charged to connect to our services.
+**Cost.** We won’t charge you to use OurCal but you are responsible for any Internet fees, carrier data plans and other costs from third parties that you may be charged to connect to our services.
 
 ## Support for the app and how to tell us about problems
 
 **Support**. If you want to learn more about the App or the Service or have any problems using them please contact us using the details below.
 
-**Contacting us (including with complaints)**. If you think the App or the Services are faulty or misdescribed or wish to contact us for any other reason please email our customer service team at [hi@onin.co](mailto:hi@onin.co?subject=Legal%20Policy).
+**Contacting us (including with complaints)**. If you think the App or the Services are faulty or misdescribed or wish to contact us for any other reason please email our customer service team at [hi@ourcal.com](mailto:hi@ourcal.com?subject=Legal%20Policy).
 
 **How we will communicate with you**. If we have to contact you we will do so through the App or via your contact email address.
 
 ## Your privacy
 
-We only use any personal data we collect through your use of the App and the Services in the ways set out in our [Privacy Policy](/privacy-policy.md). By using Onin, you agree to our privacy policy.
+We only use any personal data we collect through your use of the App and the Services in the ways set out in our [Privacy Policy](/privacy-policy.md). By using OurCal, you agree to our privacy policy.
 
 When you use the App, your profile, events, and messages are encrypted with end-to-end encryption (E2EE). This means that only you and the intended recipients of these can view them.
 
@@ -65,7 +65,7 @@ You must not:
 * use the App or any Service in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users; and
 * collect or harvest any information or data from any Service or our systems or attempt to decipher any transmissions to or from the servers running any Service.
 
-It is your responsibility to keep your device secure and to prevent unauthorised people from accessing your Onin account.
+It is your responsibility to keep your device secure and to prevent unauthorised people from accessing your OurCal account.
 
 ## Permission to use your information
 
