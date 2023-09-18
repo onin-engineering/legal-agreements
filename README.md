@@ -1,4 +1,4 @@
-# Onin's Legal Agreements
+# OurCal's Legal Agreements
 
 We host our legal agreements between you—our users—and us here on [GitHub](/) to make them, and any changes made to them, as transparent as possible.
 
