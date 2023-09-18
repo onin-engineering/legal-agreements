@@ -1,8 +1,8 @@
 # Our Privacy Policy
 
-Effective date: 06/11/2022
+Effective date: 18/09/2023
 
-Whether you use **Onin**, visit our website, speak to one of our team or use our services more widely, you are trusting us with your information. When you use the **Onin** app, your profile, events, and messages are encrypted with end-to-end encryption (E2EE). This means that only you and the intended recipients of these can view them. This policy sets out how we collect, use and respect such information, and how the law protects you and your information.
+Whether you use **OurCal**, visit our website, speak to one of our team or use our services more widely, you are trusting us with your information. When you use the **OurCal** app, your profile, groups, calendars, events, and messages are all encrypted with end-to-end encryption (E2EE). This means that only you and the intended recipients of these can view them. This policy sets out how we collect, use and respect such information, and how the law protects you and your information.
 
 ## Why this policy exists
 
@@ -14,18 +14,18 @@ We keep our privacy policy under regular review. The version of the policy becam
 
 ## What information we have & how it was collected
 
-We collect and use information to deliver our services via the **Onin** app, to run our business, to operate our website, as well as to provide useful updates and other information about our apps, products and services. In this context, we are a data controller. 
+We collect and use information to deliver our services via the **OurCal** app, to run our business, to operate our website, as well as to provide useful updates and other information about our apps, products and services. In this context, we are a data controller. 
 
 ## The information we collect
 
 We have set out below the information we may collect, use, store and transfer:
 
-* Contact data including your mobile number and email address.
-* Data needed for your **Onin** account which is your unique user identifier, phone number, email address, and the username you use.
-* Your chats and events metadata such as when they were created and with what other account user identifiers.
-* Your content including your profile, messages, and events sent and shared via the **Onin** app. This data is E2EE and can't be seen by us or anyone other than the sender and intended recipients. Since it is E2EE, it can't be used to identify you, so is not personal data.
-* Technical data including information about the device you use to install, access or use our services and the **Onin** app as well as to use our website, the device model, operating system, app version, your browser type and version, mobile operator, internet service provider, language, time zone setting and estimated geographic location, browser plug-in types and versions.
-* Authentication information required to use the **Onin** app.
+* Contact data including your email address.
+* Data needed for your **OurCal** account which is your unique user identifier and email address.
+* Your profile, groups, calendars, events, and messages metadata such as when they were created and with what other account user identifiers.
+* Your content including your profile, groups, calendars, events, and messages sent and shared via the **OurCal** app. This data is E2EE and can't be seen by us or anyone other than the sender and intended recipients. Since it is E2EE, it can't be used to identify you, so is not personal data.
+* Technical data including information about the device you use to install, access or use our services and the **OurCal** app as well as to use our website, the device model, operating system, app version, your browser type and version, mobile operator, internet service provider, language, time zone setting and estimated geographic location, browser plug-in types and versions.
+* Authentication information required to use the **OurCal** app.
 * Usage data including information about your visit, including the website that referred you to our website (if applicable), the path that you take through and from our website (including date and time); pages that you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 * Marketing and communications data including preferences in receiving marketing from us and communication preferences.
 * Aggregated data such as technical and analytical data. Aggregated data may be derived from your information but is not considered ‘personal data’ in law as it does not reveal your identity. However, if we combine or connect such data with your information so that it can directly or indirectly identify you, we will apply this policy to such combined data.
@@ -37,8 +37,6 @@ We use different methods to collect data including through:
 * Information you provide to us directly.
 * Automated technologies or interactions. This may include information about your use of our services, how you interact with other users, information about your device, troubleshooting and diagnostic information.
 * Third parties and publicly available sources. We may receive personal data from various third parties such as:
-    * contact data from your device contacts
-    * events data from your device calendars
     * technical data from analytics and crash reporting providers
 
 Our services are not intended for children and we do not knowingly collect information on children below the age of 13. 
@@ -57,8 +55,7 @@ The information below sets out the ways we use information and our legal basis f
 
 ### We will process the following information to perform our contract with you
 
-* your contact data including your mobile number and email address
-* your username
+* your contact data including your email address
 * your content
 * usage information
 * account access information
@@ -67,12 +64,12 @@ The information below sets out the ways we use information and our legal basis f
 
 #### We will use this information to:
 
-* help you get your **Onin** account set up
+* help you get your **OurCal** account set up
 * ensure the service is running properly and perform troubleshooting
 * maintain security
 * link a device to your account
-* to send and receive messages and events
-* to show other **Onin** users of your choosing your profile
+* to send and receive groups, calendars, events, and messages
+* to show other **OurCal** users belonging to the same group your profile
 
 ### We will process the following information because it is in our legitimate interest to do so
 
@@ -82,28 +79,25 @@ The information below sets out the ways we use information and our legal basis f
 
 #### We will use this information to:
 
-* to establish business intelligence about how users use our **Onin** app and our services
-* to count the number of users of our **Onin** app
-* to improve our service offering and develop our **Onin** app
+* to establish business intelligence about how users use our **OurCal** app and our services
+* to count the number of users of our **OurCal** app
+* to improve our service offering and develop our **OurCal** app
 
 ### We will process the following information when you give your consent
 
-* content you share on the **Onin** app
-* contact data from your device contacts
-* events data from your device calendars
+* content you share on the **OurCal** app
+* your device's calendar events
 
 You have the right to withdraw your consent to use this information.
 
 #### We will use this information to:
 
 * to send and receive messages and events
-* to show you which of your device contacts are also **Onin** users
-* to show you your device calendar events in the **Onin** app
+* to show you and let you edit your device's calendar events in the **OurCal** app
 
 ### We will process the following information to comply with a legal obligation
 
-* your contact data including your mobile number and email address
-* your username
+* your contact data including your email address
 * your content
 * usage information
 * account access information
@@ -128,7 +122,7 @@ Please note that we may process your information without your knowledge or conse
 
 ## Who we share your information with & why
 
-We may share your information with others, particularly those that help us provide our services or run our business effectively. For example, we will share your data with the services (such as [Stream]( https://getstream.io) and [Google Firebase]( https://firebase.google.com) that provide E2EE and messaging functionality respectively incorporated in the **Onin** app. In addition, we share data with our staff, our IT service providers, those who manage our data, and our advisers and marketing partners.
+We may share your information with others, particularly those that help us provide our services or run our business effectively. For example, we will share your data with the services (such as [Seald](https://www.seald.io), [Stream](https://getstream.io), and [Google Firebase]( https://firebase.google.com)) that provide the respective E2EE, messaging, and authentication functionality incorporated in the **OurCal** app. In addition, we share data with our staff, our IT service providers, those who manage our data, and our advisers and marketing partners.
 
 We require others to respect the information we share with them, and to only use it in ways the law allows. We only allow others to use such information for the specific purposes we set out, and not for any other purposes. When we engage processors to process information on our behalf, we ensure a contract is in place with the processor that sets out the details of the processing.
 
@@ -171,7 +165,7 @@ See below for further details
 
 ### Security of your personal data 
 
-**Onin** provides E2EE for your profile, events, and messages. This data is only ever stored on our servers in its encrypted, ciphertext form.
+**OurCal** provides E2EE for your profile, events, and messages. This data is only ever stored on our servers in its encrypted, ciphertext form.
 
 We have put in place appropriate security measures to prevent your contact information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to that information to those of our staff and other third parties who have a business need to know. They will only process information on our instructions and they are subject to a duty of confidentiality.
 
@@ -221,6 +215,6 @@ You have the right to make a complaint at any time to the Information Commission
 
 ### How to contact us
 
-If you have any questions or would like to contact us about this policy, you can contact us by email at [hi@onin.co](mailto:hi@onin.co?subject=Legal%20Policy).
+If you have any questions or would like to contact us about this policy, you can contact us by email at [hi@ourcal.co](mailto:hi@ourcal.co?subject=Legal%20Policy).
 
 We are Onin Ltd. Our business is registered in England with company number 11941893 and our registered office is 128 City Road, London EC1V 2NX.
