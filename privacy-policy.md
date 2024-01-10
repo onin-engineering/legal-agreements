@@ -153,7 +153,7 @@ The third parties we send information to may be based outside the UK. If they ar
 * We will only transfer information to countries that have been deemed to provide an adequate level of protection for personal data by the Information Commissioner’s Office. For further details, see the Information Commissioner’s Office website.
 * Where we use certain service providers, we may use specific contracts approved by the Information Commissioner’s Office with the service provider which give the information the same protection it has in the UK. For further details, see the Information Commissioner’s Office website for the transfer of personal data to third countries.
 
-Analytics providers. We use [Plausible Analytics]( https://plausible.io) on our website and [Mixpanel](https://mixpanel.com) in our app which are both configured to or by default do not collect any personal data or use cookies.
+Analytics providers. We use [Plausible]( https://plausible.io), [Branch](https://www.branch.io), and [Mixpanel](https://mixpanel.com) on both our website & app which are configured to or by default do not collect any personal data or use cookies.
 
 Our website may include links to third-party websites and/or plug-ins. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites or services and are not responsible for their privacy practices or privacy statements. When you leave our website, we encourage you to read the privacy policy of any new website you visit if this a concern for you.
 
