@@ -29,12 +29,14 @@ We have set out below the information we may collect, use, store and transfer:
 * Usage data including information about your visit, including the website that referred you to our website (if applicable), the path that you take through and from our website (including date and time); pages that you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 * Marketing and communications data including preferences in receiving marketing from us and communication preferences.
 * Aggregated data such as technical and analytical data. Aggregated data may be derived from your information but is not considered ‘personal data’ in law as it does not reveal your identity. However, if we combine or connect such data with your information so that it can directly or indirectly identify you, we will apply this policy to such combined data.
+* Subscription information.
 
 ## How we collect your information
 
 We use different methods to collect data including through:
 
 * Information you provide to us directly.
+* Information provided by the store where you downloaded the **OurCal** app.
 * Automated technologies or interactions. This may include information about your use of our services, how you interact with other users, information about your device, troubleshooting and diagnostic information.
 * Third parties and publicly available sources. We may receive personal data from various third parties such as:
     * technical data from analytics and crash reporting providers
@@ -61,6 +63,7 @@ The information below sets out the ways we use information and our legal basis f
 * account access information
 * authentication information
 * device information
+* subscription information
 
 #### We will use this information to:
 
@@ -76,6 +79,7 @@ The information below sets out the ways we use information and our legal basis f
 * usage information
 * account access information
 * device information
+* subscription information
 
 #### We will use this information to:
 
@@ -122,7 +126,7 @@ Please note that we may process your information without your knowledge or conse
 
 ## Who we share your information with & why
 
-We may share your information with others, particularly those that help us provide our services or run our business effectively. For example, we will share your data with the services (such as [Seald](https://www.seald.io), [Stream](https://getstream.io), and [Google Firebase]( https://firebase.google.com)) that provide the respective E2EE, messaging, and authentication functionality incorporated in the **OurCal** app. In addition, we share data with our staff, our IT service providers, those who manage our data, and our advisers and marketing partners.
+We may share your information with others, particularly those that help us provide our services or run our business effectively. For example, we will share your data with the services (such as [Seald](https://www.seald.io), [Stream](https://getstream.io), [RevenueCat](https://revenuecat.com/), and [Google Firebase]( https://firebase.google.com)) that provide the respective E2EE, messaging, subscription, and authentication functionality incorporated in the **OurCal** app. In addition, we share data with our staff, our IT service providers, those who manage our data, and our advisers and marketing partners.
 
 We require others to respect the information we share with them, and to only use it in ways the law allows. We only allow others to use such information for the specific purposes we set out, and not for any other purposes. When we engage processors to process information on our behalf, we ensure a contract is in place with the processor that sets out the details of the processing.
 
@@ -134,7 +138,7 @@ We may have to share information with third parties (including those below) for 
 * Service providers who perform services and functions on our behalf in connection with the operation of our app and business such as software and application service providers and third parties who host, store and manage data or provide programming or technical support, etc.
 * Professional advisers including our accountants, insurers and brokers, etc.
 * Analytics partners to analyse website traffic and understand customer needs and trends.
-* Marketing service providers to help us to communicate with you.
+* Marketing service providers to help us to communicate with you (such as [OneSignal](https://onesignal.com/)).
 * If we are required to do so by law, or if we believe that such action is necessary to: (a) fulfil a government, or regulatory authority request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our websites or customers.
 * Those to whom we may sell, transfer, or merge parts of our business with, or where we acquire other businesses or merge with them. If such a change happens then any new owners may use your personal data in the same way as set out in this policy.
 
@@ -153,7 +157,7 @@ The third parties we send information to may be based outside the UK. If they ar
 * We will only transfer information to countries that have been deemed to provide an adequate level of protection for personal data by the Information Commissioner’s Office. For further details, see the Information Commissioner’s Office website.
 * Where we use certain service providers, we may use specific contracts approved by the Information Commissioner’s Office with the service provider which give the information the same protection it has in the UK. For further details, see the Information Commissioner’s Office website for the transfer of personal data to third countries.
 
-Analytics providers. We use [Plausible]( https://plausible.io), [Branch](https://www.branch.io), and [Mixpanel](https://mixpanel.com) on both our website & app which are configured to or by default do not collect any personal data or use cookies.
+Analytics providers. We use [Plausible]( https://plausible.io) and [Mixpanel](https://mixpanel.com) on both our website & app which are configured to or by default do not collect any personal data or use cookies.
 
 Our website may include links to third-party websites and/or plug-ins. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites or services and are not responsible for their privacy practices or privacy statements. When you leave our website, we encourage you to read the privacy policy of any new website you visit if this a concern for you.
 
