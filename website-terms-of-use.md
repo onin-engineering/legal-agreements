@@ -1,6 +1,6 @@
 # Our Website Terms of Use
 
-Effective date: 06/11/2022
+Effective date: 18/09/2023
 
 These terms set out the standards that apply when you use our website, any content from our website or link to our website. If you do not agree to these terms, you must not use our website.  
 
@@ -10,9 +10,9 @@ You may also want to review our [Privacy Policy](/privacy-policy.md) to learn ho
 
 We are Onin Ltd. Our business is registered in England with company number 11941893 and our registered office is 128 City Road, London EC1V 2NX.
 
-To contact us, please email us at [hi@onin.co](mailto:hi@onin.co?subject=Legal%20Policy).
+To contact us, please email us at [hi@ourcal.com](mailto:hi@ourcal.com?subject=Legal%20Policy).
 
-All references to “we”, “us” and “our” in these terms refer to Onin Ltd. 
+All references to “we”, “us” and “our” in these terms refer to OurCal Ltd. 
 
 ## Using Our Website for General Info
 
@@ -30,14 +30,14 @@ Our website content is for general information purposes only.
 
 We own the copyright to the content of our website. You agree to only download and print our content for your own internal business purposes and personal use.
 
-Onin is our registered trademark, and you agree:
+OurCal is our registered trademark, and you agree:
 
 * you will not copy, imitate or use it without our prior written consent
 * nothing in these term grants any license or right to use our or any third party’s trademarks displayed on our website or content
 * all goodwill generated from the use of our trademark is reserved for our use exclusively
 * you will not use any robot, page-scrape, spider or other process to access, copy or monitor any portion of the Website or its content.
 
-If you believe any of our website content infringes your intellectual property rights, please provide details of your rights to such content to [hi@onin.co](mailto:hi@onin.co?subject=Legal%20Policy).
+If you believe any of our website content infringes your intellectual property rights, please provide details of your rights to such content to [hi@ourcal.com](mailto:hi@ourcal.com?subject=Legal%20Policy).
 
 ## Other Disclaimers and Governing Terms
 
@@ -60,7 +60,7 @@ While we take reasonable precautions to prevent computer viruses and other malic
 
 ### Limits on Liability
 
-Any limit or disclaimer of liability in these terms limits or disclaims liability in contract, for negligence, breach of implied terms, or arising on any other basis, except for liability for death or personal injury caused by the negligence of Onin, its directors, consultants, agents, sub-contractors or employees, fraud, fraudulent misrepresentation, or any other liability that cannot be excluded or limited by law.
+Any limit or disclaimer of liability in these terms limits or disclaims liability in contract, for negligence, breach of implied terms, or arising on any other basis, except for liability for death or personal injury caused by the negligence of OurCal, its directors, consultants, agents, sub-contractors or employees, fraud, fraudulent misrepresentation, or any other liability that cannot be excluded or limited by law.
 
 ## Governing Law and Jurisdiction
 
