@@ -29,7 +29,7 @@ Depending on the version of the App you have installed, your use of the App may 
 
 **Your device calendars and contacts**. You can choose to allow the App to connect to your device calendars to show you such calendar events in the App. If you do, you give your consent to do that. You can also choose to allow the App to connect to your device contacts to show you which of these contacts are also OurCal users and, if you do, you give your consent to do that.
 
-**Cost.** We won’t charge you to use OurCal but you are responsible for any Internet fees, carrier data plans and other costs from third parties that you may be charged to connect to our services.
+**Cost**. If you use the free version of OurCal, we won’t charge you to use OurCal. If you use one of our paid for plans, then you will be charged the fees relevant to that plan. In all cases, you are responsible for any Internet fees, carrier data plans and other costs from third parties that you may be charged to connect to our services.
 
 ## Support for the app and how to tell us about problems
 
@@ -130,7 +130,7 @@ All intellectual property rights in the App and the Services throughout the worl
 **We are not responsible for events outside our control**. If our provision of the Services or support for the App or the Services is delayed by an event outside our control then we will contact you as soon as possible to let you know and we will take steps to minimise the effect of the delay. Provided we do this we will not be liable for delays caused by the event but if there is a risk of substantial delay you may contact us to end your contract with us and receive a refund for any Services you have paid for but not received.
 
 ## We may end your rights to use the app and the services if you break these terms
-We may end your rights to use the App and Services at any time by contacting you if you have broken these terms in a serious way. If what you have done can be put right we will give you a reasonable opportunity to do so.
+We may end your rights to use the App and Services at any time by contacting you if you have broken these terms in a serious way or if you don't make the payments needed to use any paid-for version of OurCal. If what you have done can be put right we will give you a reasonable opportunity to do so.
 
 If we end your rights to use the App and Services, you must stop all activities authorised by these terms, including your use of the App and any Services, and delete the App.
 
@@ -146,7 +146,7 @@ This agreement does not give rise to any rights under the Contracts (Rights of T
 
 Each of the paragraphs of these terms operates separately. If any court or relevant authority decides that any of them are unlawful, the remaining paragraphs will remain in full force and effect.
 
-## Wven if we delay in enforcing this contract, we can still enforce it later
+## Even if we delay in enforcing this contract, we can still enforce it later
 
 Even if we delay in enforcing these terms, we can still enforce them later. If we do not insist immediately that you do anything you are required to do under these terms, or if we delay in taking steps against you in respect of your breaking this contract, that will not mean that you do not have to do those things and it will not prevent us taking steps against you at a later date.
 
