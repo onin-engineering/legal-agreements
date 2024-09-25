@@ -159,6 +159,8 @@ The third parties we send information to may be based outside the UK. If they ar
 
 Analytics providers. We use [Plausible]( https://plausible.io) and [Mixpanel](https://mixpanel.com) on both our website & app which are configured to or by default do not collect any personal data or use cookies.
 
+Mobile measurement providers. We use [Adjust](https://www.adjust.com/) in our app to help understand where users downloaded our app from.
+
 Our website may include links to third-party websites and/or plug-ins. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites or services and are not responsible for their privacy practices or privacy statements. When you leave our website, we encourage you to read the privacy policy of any new website you visit if this a concern for you.
 
 ## How we protect your information
