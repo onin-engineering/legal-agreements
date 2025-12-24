@@ -8,7 +8,7 @@ You may also want to review our [Privacy Policy](/privacy-policy.md) to learn ho
 
 ## Who We Are & How To Contact Us
 
-We are Onin Ltd. Our business is registered in England with company number 11941893 and our registered office is 128 City Road, London EC1V 2NX.
+We are OurCal Ltd. Our business is registered in England with company number 11941893 and our registered office is 128 City Road, London EC1V 2NX.
 
 To contact us, please email us at [hi@ourcal.com](mailto:hi@ourcal.com?subject=Legal%20Policy).
 
