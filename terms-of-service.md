@@ -10,7 +10,7 @@ Privacy and Security are at the centre of OurCal and these terms and our [Privac
 
 ## Who we are and what this agreement does
 
-We, Onin Ltd. of 128 City Road, London EC1V 2NX, license you to use:
+We, OurCal Ltd. of 128 City Road, London EC1V 2NX, license you to use:
 
 * OurCal App mobile application software, the data supplied with the software, (**App**) and any updates or supplements to it.
 * The service you connect to via the App and the content we provide to you through it (**Service**).
