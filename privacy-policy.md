@@ -223,4 +223,4 @@ You have the right to make a complaint at any time to the Information Commission
 
 If you have any questions or would like to contact us about this policy, you can contact us by email at [hi@ourcal.com](mailto:hi@ourcal.com?subject=Legal%20Policy).
 
-We are Onin Ltd. Our business is registered in England with company number 11941893 and our registered office is 128 City Road, London EC1V 2NX.
+We are OurCal Ltd. Our business is registered in England with company number 11941893 and our registered office is 128 City Road, London EC1V 2NX.
